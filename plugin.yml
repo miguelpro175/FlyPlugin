@@ -1,0 +1,8 @@
+name: FlyPlugin
+version: '1.0-SNAPSHOT'
+main: br.com.migueleb.flyplugin.FlyPlugin
+api-version: 1.16
+commands:
+  fly:
+    description: Ativa ou desativa o modo de voo.
+    usage: /<command>
